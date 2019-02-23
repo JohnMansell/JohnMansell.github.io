@@ -4654,7 +4654,7 @@ input, select, textarea {
 	}
 
 	.centered{
-		position: absolute;
+		position: relative;
 		top: 5px;
 		left: 5px;
 		width: 100%;
